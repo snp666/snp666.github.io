@@ -16,11 +16,33 @@ body {
     src: url("/GraphikRegular.otf");
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+input {
+    border-color: transparent;
+    border-bottom: 1px solid lightgrey;
+    background-color: transparent;
+}
+
 holder {
     position: fixed;
-    top: 50%;
+    top: 40%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%,-40%);
 }
 
 type {
