@@ -1,1 +1,44 @@
+html {
+    
+}
 
+body {
+    background-color: #fefb00;
+}
+
+@font-face {
+    font-family: "snp";
+    src: url("/GraphikMedium.otf");
+}
+
+login {
+    font-size: 2em;
+    font-family: snp;
+    color: #fff;
+    position: fixed;
+    display: block;
+    text-align: center;
+    height: 80px;
+    background-color: #f23b57;
+    left: 0;
+    right: 0;
+    bottom: 120px;
+    padding-top: 40px;
+    
+}
+
+signup {
+    font-size: 2em;
+    font-family: snp;
+    color: #fff;
+    position: fixed;
+    display: block;
+    text-align: center;
+    height: 80px;
+    background-color: #0eadff;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding-top: 40px;
+    
+}
