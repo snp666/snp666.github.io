@@ -11,6 +11,23 @@ body {
     src: url("/GraphikMedium.otf");
 }
 
+@font-face {
+    font-family: "snl";
+    src: url("/GraphikRegular.otf");
+}
+
+holder {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+type {
+    font-family: snl;
+    text-align: center;
+}
+
 login {
     font-size: 2em;
     font-family: snp;
