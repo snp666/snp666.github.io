@@ -57,12 +57,12 @@ login {
     position: fixed;
     display: block;
     text-align: center;
-    height: 80px;
+    height: 160px;
     background-color: #f23b57;
     left: 0;
     right: 0;
-    bottom: 120px;
-    padding-top: 40px;
+    bottom: 220px;
+    padding-top: 80px;
     
 }
 
@@ -73,11 +73,11 @@ signup {
     position: fixed;
     display: block;
     text-align: center;
-    height: 80px;
+    height: 160px;
     background-color: #0eadff;
     left: 0;
     right: 0;
     bottom: 0;
-    padding-top: 40px;
+    padding-top: 80px;
     
 }
