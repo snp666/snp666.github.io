@@ -51,7 +51,7 @@ type {
 }
 
 login {
-    font-size: 2em;
+    font-size: 3em;
     font-family: snp;
     color: #fff;
     position: fixed;
@@ -67,7 +67,7 @@ login {
 }
 
 signup {
-    font-size: 2em;
+    font-size: 3em;
     font-family: snp;
     color: #fff;
     position: fixed;
