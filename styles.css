@@ -51,7 +51,7 @@ type {
 }
 
 login {
-    font-size: 3em;
+    font-size: 4em;
     font-family: snp;
     color: #fff;
     position: fixed;
@@ -61,13 +61,13 @@ login {
     background-color: #f23b57;
     left: 0;
     right: 0;
-    bottom: 220px;
+    bottom: 240px;
     padding-top: 80px;
     
 }
 
 signup {
-    font-size: 3em;
+    font-size: 4em;
     font-family: snp;
     color: #fff;
     position: fixed;
